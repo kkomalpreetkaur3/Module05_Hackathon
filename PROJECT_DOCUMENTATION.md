@@ -5,7 +5,7 @@ This project is a Random Quote Generator that fetches quotes from a local JSON f
 
 ## Team Members
 - Member 1
-- Member 2
+- Komalpreet Kaur
 - Member 3
 
 ## Member Contributions
