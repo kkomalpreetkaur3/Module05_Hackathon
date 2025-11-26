@@ -8,7 +8,7 @@ This project is a Random Quote Generator that fetches quotes from a local JSON f
 - Komalpreet Kaur
 - Member 3
 
-## Member Contributions
+## Member Contributions in this Hackathon
 
 ### Jashandeep Singh
 - Created the HTML structure of the webpage.
