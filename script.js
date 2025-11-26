@@ -34,7 +34,6 @@ newQuoteBtn.addEventListener('click', async () => {
     displayQuote(quotes);
 });
 
-// Initial quote on page load
 window.addEventListener('load', async () => {
     const quotes = await fetchQuotes();
     displayQuote(quotes);
