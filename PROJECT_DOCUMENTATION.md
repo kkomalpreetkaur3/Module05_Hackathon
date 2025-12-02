@@ -4,9 +4,9 @@
 This project is a Random Quote Generator that fetches quotes from a local JSON file asynchronously using JavaScript. The webpage dynamically displays quotes and authors with a button to generate new quotes. The project demonstrates asynchronous programming concepts, including `async/await`, Fetch API, and error handling.
 
 ## Team Members
-- Member 1
+- Jashandeep Singh
 - Komalpreet Kaur
-- Member 3
+- Muskan Devgan
 
 ## Member Contributions
 
